@@ -1,0 +1,16 @@
+.container {
+    background-color: ghostwhite;
+    margin-top: 0px;
+    border: 0px;
+}
+.title {
+    background-color: white;
+    text-align: center;
+    height: 100px;
+    width: 100%;
+}
+.carta {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
